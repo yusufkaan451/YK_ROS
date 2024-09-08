@@ -49,16 +49,9 @@
 
 ### AWS S3
 * For aws configure
-* AWS Access Key ID: SCW4HVKMA0SBBXPM070Z
-* AWS Secret Access Key : 6b5e2c90-c4e5-47bf-bc0f-158212fbaccf
+* AWS Access Key ID: 
+* AWS Secret Access Key : 
 * Default region name : nl-ams
-
-### MQTT
-
-* MQTT company username and password:
-* username homeio
-* password: 79dDJcWriy6q3s5
-* mqtt.gohm.tech:1883
 
 ### DOCKER
 
